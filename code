@@ -1,0 +1,60 @@
+
+{
+  "Name": "Your Name",
+  "Contact Information": {
+    "Email": "your.email@example.com",
+
+    "Phone": "123-456-7890",
+    "LinkedIn": "https://linkedin.com/in/yourprofile"
+  },
+  "Summary": "Brief summary of your qualifications and goals",
+  "Education": [
+    {
+      "Degree": "Your Degree",
+      "Institution": "Your University",
+      "Graduation Year": "YYYY",
+      "Details": "Additional information about your education"
+    }
+  ],
+  "Experience": [
+    {
+      "Job Title": "Your Job Title",
+      "Company": "Your Company",
+      "Dates": "Start Date - End Date",
+      "Responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ],
+      "Achievements": [
+        "Achievement 1",
+        "Achievement 2"
+      ]
+    }
+  ],
+  "Skills": [
+    "Skill 1",
+    "Skill 2"
+  ],
+  "Projects": [
+    {
+      "Project Name": "Project Title",
+      "Description": "Brief description of the project",
+      "Technologies": [
+        "Technology 1",
+        "Technology 2"
+      ]
+    }
+  ],
+  "Certifications": [
+    {
+      "Certification Name": "Name of Certification",
+      "Issuing Organization": "Issuer",
+      "Date": "YYYY-MM-DD"
+    }
+  ]
+}
+
+Here is my resume:
+
+[PASTE YOUR RESUME HERE]
+
